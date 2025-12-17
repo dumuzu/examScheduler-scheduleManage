@@ -1,0 +1,5 @@
+{
+  "name": "Academic Schedule Manager",
+  "description": "An offline-first, minimalist schedule manager for final exams and makeup lectures with Excel integration.",
+  "requestFramePermissions": []
+}
